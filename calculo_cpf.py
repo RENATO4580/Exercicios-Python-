@@ -85,3 +85,5 @@ if cpf_9 == cpf_original:
     print("CPF   Valido")
 else:
     print("CPF Inválido")
+ 
+#  fim do arquivo
